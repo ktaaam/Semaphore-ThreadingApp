@@ -1,0 +1,6 @@
+c:\users\kevin\documents\visual studio 2015\Projects\ProdCon2.cs\ProdCon2.cs\bin\Debug\ProdCon2.cs.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\ProdCon2.cs\ProdCon2.cs\bin\Debug\ProdCon2.cs.exe
+c:\users\kevin\documents\visual studio 2015\Projects\ProdCon2.cs\ProdCon2.cs\bin\Debug\ProdCon2.cs.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\ProdCon2.cs\ProdCon2.cs\obj\Debug\ProdCon2.cs.exe
+c:\users\kevin\documents\visual studio 2015\Projects\ProdCon2.cs\ProdCon2.cs\obj\Debug\ProdCon2.cs.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\ProdCon2.cs\ProdCon2.cs\obj\Debug\ProdCon2.cs.csprojResolveAssemblyReference.cache
